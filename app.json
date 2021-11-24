@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SURTURBOT/ThanosBot",
-  "website": "https://github.com/SURTURBOT/ThanosBot",
-  "success_url": "https://t.me/thanosBot_chat",
+  "repository": "https://github.com/thanosuser/ThanosBot",
+  "website": "https://github.com/thanosuser/ThanosBot",
+  "success_url": "https://t.me/thanosBot_chats",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @thanosbot_chat. By default it is thanos User",
-      "value": "@thanosBot_chat",
+      "value": "@thanosBot_chats",
       "required": false
     },
     "ALIVE_MSG": {
