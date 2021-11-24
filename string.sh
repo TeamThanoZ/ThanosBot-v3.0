@@ -1,5 +1,5 @@
 #!/bin/bash
-#   Copyright (C) 2021 REBEL725
+#   Copyright (C) 2021 thanosuser
 #
 #   Poject REBELBOT is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
@@ -22,7 +22,7 @@ echo """
                           ║║║║╠╣thanos╔║║╣BOT║╔╗║║║║║
                           ╚╩═╩╩╝╚╩─╚══╩╝╚╩══╩═╝╚
                      © 𝙻𝙴𝙶𝙴𝙽𝙳𝙰𝚁𝚈_𝙰𝙵_thanos™                       
-                         @thanosBot_Chat
+                         @thanosBot_Chats
 """
 
 python3 string_session.py
