@@ -1,7 +1,7 @@
-FROM SURTURBOT/ThanosBot:latest
+FROM thanosuser/ThanosBot:latest
 
 #clonning repo 
-RUN git clone https://github.com/SURTURBOT/Thanos-UserBot.git /root/userbot
+RUN git clone https://github.com/thanosuser/Thanos-UserBot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
