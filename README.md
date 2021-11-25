@@ -62,7 +62,7 @@ height="40px" width="200px" alt="heroku" /></a>
 - In short, Fork At Your Own Risk.
 
 
-# plugin credits/REBEL75(https://github.com/REBEL75)
+
 
 
 <summary> • plugin CREDITS • </summary>
