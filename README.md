@@ -63,3 +63,12 @@ height="40px" width="200px" alt="heroku" /></a>
 
 
 # plugin credits/REBEL75(https://github.com/REBEL75)
+
+
+<summary> • plugin CREDITS • </summary>
+<h2 align="center"> <a href="https://github.com/REBEL75/REBELBOT">💥REBEL💥</a></h2>
+ One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+
+</details>
+
+<details>
