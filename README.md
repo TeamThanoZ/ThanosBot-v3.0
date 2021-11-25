@@ -61,3 +61,5 @@ height="40px" width="200px" alt="heroku" /></a>
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
 
+
+# plugin credits/REBEL75(https://github.com/REBEL75)
