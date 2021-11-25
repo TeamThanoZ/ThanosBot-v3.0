@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>THANOS USERBOT{🇮🇳}</b>
+<b>THANOS USERBOT</b>
 </h1>
 <p align="center">
   <img src="https://telegra.ph/file/96c7031243c9bbaab31eb.jpg" alt="The-PANTHERS BOT">
@@ -17,8 +17,8 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-- <a href="https://t.me/thanos_userbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-- <a href="https://t.me/thanosbot_chat"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/thanos_userbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/thanosbot_chats"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
