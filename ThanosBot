@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $REBEL_REPO == "ThanosBot" ]]
+    if [[ $thanosuser_REPO == "ThanosBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3RoYW5vc3VzZXIvVGhhbm9zLVVzZXJCb3QvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
-    elif [[ $REBEL_REPO == "ThanosBot" ]]
+    elif [[ $thanosuser_REPO == "ThanosBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL3RoYW5vc3VzZXIvVGhhbm9zLVVzZXJCb3QvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
-    elif [[ $REBEL_REPO =~ $regex ]]
+    elif [[ $thanosuser_REPO =~ $regex ]]
     then
-        if [[ $REBEL_REPO_BRANCH ]]
+        if [[ $thanosuser_REPO_BRANCH ]]
         then
-            echo "${REBEL_REPO}/archive/${REBEL_REPO_BRANCH}.zip"
+            echo "${thanosuser_REPO}/archive/${thanosuser_REPO_BRANCH}.zip"
         else
-            echo "${REBEL_REPO}/archive/master.zip"
+            echo "${thanosuser_REPO}/archive/ThanosBot.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL3RoYW5vc3VzZXIvVGhhbm9zLVVzZXJCb3QvYXJjaGl2ZS9UaGFub3Nib3Quemlw" | base64 -d
