@@ -1,1 +1,1 @@
-worker: bash ThanosBot-v2.0
+worker: bash ThanosBot-v3.0
