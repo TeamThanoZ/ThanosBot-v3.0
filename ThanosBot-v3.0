@@ -37,7 +37,7 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $REBELPATH
-    echo " 𝗦𝗧𝗔𝗥𝗧 𝗧𝗵𝗮𝗻𝗼𝘀𝗕𝗼𝘁  "
+    echo " 𝗦𝗧𝗔𝗥𝗧 𝗧𝗵𝗮𝗻𝗼𝘀𝗕𝗼𝘁-v3  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     python3 -m userbot
