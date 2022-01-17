@@ -1,6 +1,6 @@
 {
   "name": "Tᕼᗴ ＴＨΛＮ♢Ｓ",
-  "description": "The ＴＨΛＮ♢ＳBot made by @mafiarishabh ",
+  "description": "The ＴＨΛＮ♢ＳBot made by @THANOSCEO, Small Bugs Fixes @xGamer_s",
   "logo": "https://telegra.ph/file/97012cc8b32a2744c50b3.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/thanosuser/ThanosBot",
-  "website": "https://github.com/thanosuser/ThanosBot",
-  "success_url": "https://t.me/thanosBot_chats",
+  "repository": "https://github.com/TeamThanoZ/ThanosBot-v3.0",
+  "website": "https://github.com/TeamThanoZ/ThanosBot-v3.0",
+  "success_url": "https://t.me/ThanosBot_chats",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @thanosbot_chat. By default it is thanos User",
-      "value": "@thanosBot_chats",
+      "value": "@ThanosBot_chats",
       "required": false
     },
     "ALIVE_MSG": {
