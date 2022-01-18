@@ -11,19 +11,20 @@
 
 ------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [RISHABH](https://t.me/MAFIARISHABH)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [RISHABH](https://t.me/MAFIARISHABH) Main Master, Bug/Errors Fixes v3.0
+             [Ƭʜᴇ Wøℓf](https://t.me/xGamer_s) Bug/Errors Fixes v3.0, Auto Fixes
 
 ---------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-- <a href="https://t.me/thanos_userbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-- <a href="https://t.me/thanosbot_chats"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/Thanos_userbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/Thanosbot_chats"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/thanosuser/ThanosBot-v3.0" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
+<a href="https://heroku.com/deploy?template=https://github.com/TeamThanoZ/ThanosBot-v3.0" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
 height="40px" width="200px" alt="heroku" /></a>
 
 ------------------------------------------------
