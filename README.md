@@ -12,7 +12,7 @@
 ------
 
 ## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [RISHABH](https://t.me/MAFIARISHABH) Main Master, Bug/Errors Fixes v3.0
-             [Ƭʜᴇ Wøℓf](https://t.me/xGamer_s) Bug/Errors Fixes v3.0, Auto Fixes
+[Ƭʜᴇ Wøℓf](https://t.me/xGamer_s) Bug/Errors Fixes v3.0, Auto Fixes
 
 ---------------
 
